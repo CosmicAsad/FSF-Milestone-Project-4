@@ -30,6 +30,8 @@
 
 ## Technologies Used
 
+Bootstrap Starter template used to create base.html
+
 ### Security
 
 ## Testing
