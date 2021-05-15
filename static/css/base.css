@@ -14,6 +14,10 @@ body {
     font-family: 'Montserrat';
 }
 
+.navbar {
+    background-color: #029bab;
+}
+
 /* from Bulma */
 .icon {
     align-items: center;
@@ -28,9 +32,9 @@ body {
 }
 
 .shop-now-button {
-    background: black;
-    color: white;
-    min-width: 260px;
+    background: white;
+    color: #008080;
+    min-width: 300px;
 }
 
 .btn-black {
