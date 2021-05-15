@@ -1,3 +1,64 @@
 <div class="collapse navbar-collapse" id="main-nav">
-    <ul class="navbar-nav w-auto mx-auto"></ul>
+    <ul class="navbar-nav w-auto mx-auto">
+        <li class="nav-item dropdown">
+            <a class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="all-products-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                All Products
+            </a>
+            <div class="dropdown-menu border-0" aria-labelledby="all-products-link">
+                <a href="{% url 'products' %}?sort=price&direction=asc" class="dropdown-item">By Price</a>
+                <a href="{% url 'products' %}?sort=rating&direction=desc" class="dropdown-item ">By Rating</a>
+                <a href="{% url 'products' %}?sort=category&direction=asc" class="dropdown-item ">By Genre</a>
+                <a href="{% url 'products' %}" class="dropdown-item">View All</a>
+            </div>
+        </li>
+
+        <li class="nav-item dropdown">
+            <a class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="cd-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                CDs
+            </a>
+            <div class="dropdown-menu border-0" aria-labelledby="cd-link">
+                <a href="{% url 'products' %}?category=pop-cd" class="dropdown-item">Pop</a>
+                <a href="{% url 'products' %}?category=hip-hop-cd" class="dropdown-item">Hip-hop</a>
+                <a href="{% url 'products' %}?category=rock-cd" class="dropdown-item">Rock</a>
+                <a href="{% url 'products' %}?category=pop-cd,hip-hop-cd,rock-cd" class="dropdown-item">All CDs</a>
+            </div>
+        </li>
+
+        <li class="nav-item dropdown">
+            <a class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="vinyl-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Vinyls
+            </a>
+            <div class="dropdown-menu border-0" aria-labelledby="vinyl-link">
+                <a href="{% url 'products' %}?category=pop-vinyl" class="dropdown-item">Pop</a>
+                <a href="{% url 'products' %}?category=hip-hop-vinyl" class="dropdown-item">Hip-hop</a>
+                <a href="{% url 'products' %}?category=rock-vinyl" class="dropdown-item">Rock</a>
+                <a href="{% url 'products' %}?category=pop-vinyl,hip-hop-vinyl,rock-vinyl" class="dropdown-item">All Vinyls</a>
+            </div>
+        </li>
+
+        <li class="nav-item dropdown">
+            <a class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="limited-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Limited Editions
+            </a>
+            <div class="dropdown-menu border-0" aria-labelledby="limited-link">
+                <a href="{% url 'products' %}?category=pop-cd" class="dropdown-item">Limited Edition CDs</a>
+                <a href="{% url 'products' %}?category=hip-hop-cd" class="dropdown-item">Limited Edition Vinyls</a>
+                <a href="{% url 'products' %}?category=rock-cd" class="dropdown-item">Soundwaves Exclusives</a>
+                <a href="{% url 'products' %}?category=pop-cd,hip-hop-cd,rock-cd" class="dropdown-item">All Limited Editions</a>
+            </div>
+        </li>
+
+        <li class="nav-item dropdown">
+            <a class="logo-font font-weight-bold nav-link text-black" href="#" id="specials-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Special Offers
+            </a>
+            <div class="dropdown-menu border-0" aria-labelledby="specials-link">
+                <a href="{% url 'products' %}?category=new_arrivals" class="dropdown-item">New Arrivals</a>
+                <a href="{% url 'products' %}?category=deals" class="dropdown-item">Deals</a>
+                <a href="{% url 'products' %}?category=clearance" class="dropdown-item">Clearance</a>
+                <a href="{% url 'products' %}?category=new_arrivals,deals,clearance" class="dropdown-item">All Specials</a>
+            </div>
+        </li>
+
+    </ul>
 </div>
