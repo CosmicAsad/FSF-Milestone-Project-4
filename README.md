@@ -109,6 +109,20 @@ A list of sources used to provide images for the album covers for the Hip-hop vi
 9. [50 Cent - Curtis](https://www.amazon.co.uk/Curtis-VINYL-50-Cent/dp/B000UZ4VB4/ref=sr_1_5?crid=1PIURBMIF4502&dchild=1&keywords=50+cent+vinyl&qid=1621272601&sprefix=50+cent%2Caps%2C219&sr=8-5)
 
 ---
+A list of sources used to provide images for the album covers for the Rock vinyls featured on the site:
+
+1. [Green Day - American Idiot](https://www.amazon.co.uk/American-Idiot-VINYL-Green-Day/dp/B00061Q83Q/ref=sr_1_3?dchild=1)
+2. [Oasis - (What's The Story) Morning Glory?](https://www.amazon.co.uk/Whats-Story-Morning-Glory-VINYL/dp/B00LCT48L0/ref=sr_1_11?dchild=1&keywords=oasis&qid=1621275032&s=music&sr=1-11)
+3. [Royal Blood - Typhoons](https://www.amazon.co.uk/Typhoons-VINYL-Royal-Blood/dp/B08SNN3XM1/ref=tmm_vnl_swatch_0?_encoding=UTF8&qid=1621275158&sr=1-1)
+4. [Imagine Dragons - Night Visions](https://www.amazon.co.uk/Night-Visions-VINYL-Imagine-Dragons/dp/B008XOXGL0/ref=sr_1_1?dchild=1&keywords=imagine+dragons+vinyl&qid=1621275314&s=music&sr=1-1)
+5. [Weezer - Van Weezer](https://www.amazon.co.uk/Van-Weezer-VINYL/dp/B085RS9PQV/ref=sr_1_1?dchild=1&keywords=weezer+vinyl&qid=1621275394&s=music&sr=1-1)
+6. [AC/DC - Back in Black](https://www.amazon.co.uk/Back-Black-Rmst-VINYL-Ac/dp/B0000CF35G/ref=sr_1_3?dchild=1&keywords=back+in+black+vinyl&qid=1621275466&s=music&sr=1-3)
+7. [Metallica - Ride the Lightning](https://www.amazon.co.uk/Ride-Lightning-Gram-Vinyl-VINYL/dp/B01BUX7Z7Q/ref=sr_1_6?crid=1WXFQRVKJI7GH&dchild=1&keywords=metallica+vinyl&qid=1621275545&s=music&sprefix=metallica%2Cpopular%2C174&sr=1-6)
+8. [Blink 182 - Greatest Hits](https://www.amazon.co.uk/Greatest-Hits-VINYL-Blink-182/dp/B01M8I070D/ref=sr_1_6?dchild=1&keywords=blink+182+vinyl&qid=1621275667&s=music&sr=1-6)
+9. [The 1975 - The 1975](https://www.amazon.co.uk/1975-VINYL/dp/B00CLOH240/ref=sr_1_1?dchild=1&keywords=the+1975+vinyl&qid=1621275780&s=music&sr=1-1)
+10. [Liam Gallagher - Why Me? Why Not.](https://www.amazon.co.uk/Why-Me-Not-VINYL/dp/B07SQNQ577/ref=sr_1_1?dchild=1&keywords=liam+gallagher+vinyl&qid=1621275860&s=music&sr=1-1)
+
+---
 
 - Google Fonts was used to obtain the font 'Montserrat' [Google Fonts Link](https://fonts.google.com/specimen/Montserrat)
 - FontAwesome 5 was used to provide various icons used throughout the site.
