@@ -1,7 +1,7 @@
 # Soundwaves
 
 ---
-Soundwaves is a website dedicated to music, and allows users to purchase a variety of CDs and vinyl records. The focus of the website is to allow people to view and purchase music as physical media, which offers unparalleled sound quality and allows fans to build their music collections.
+Soundwaves is a website dedicated to music, and allows users to purchase a variety of CDs and vinyl records. The focus of the website is to allow people to view and purchase music as physical media, which offers unparalleled sound quality and allows fans to build their music collections. Various genres of music are listed, and Limited Edition copies are also available for purchase.
 
 ---
 
@@ -80,6 +80,20 @@ Content was created by following the steps laid out in the Code Institute Boutiq
 Homepage image:
 
 The main homepage image used on the site is a free stock image taken from Pexels https://www.pexels.com/photo/blue-vinyl-record-playing-on-turntable-1389429/
+
+---
+A list of sources used to provide images for the album covers for the Pop vinyls featured on the site:
+
+1. [The Killers - Hot Fuss](https://www.amazon.co.uk/Killers-Exclusive-Transparentes-Orange-NM-Zustand/dp/B07PPXRKJQ/ref=sr_1_9?)
+2. [Adele -25](https://www.amazon.co.uk/25-VINYL-Adele/dp/B0170C28BE/ref=sr_1_10?dchild=1&)
+3. [Amy Winehouse -  Back to Black](https://www.amazon.co.uk/Back-Black-VINYL-Amy-Winehouse/dp/B000P5FG1I?ref_=Oct_s9_apbd_omwf_hd_bw_b2)
+4. [The Weeknd - Starboy](https://www.amazon.co.uk/Starboy-Weeknd/dp/B01LTHY0H6/ref=sr_1_3?dchild=1&keywords=weeknd&qid=1621273636&s=music&sr=1-3)
+5. [The Weeknd - After Hours](https://www.amazon.co.uk/After-Hours-VINYL-Weeknd/dp/B084XTMZVS/ref=sr_1_2?dchild=1&keywords=weeknd&qid=1621273689&s=music&sr=1-2)
+6. [Taylor Swift - 1989](https://www.amazon.co.uk/1989-VINYL-Taylor-Swift/dp/B00PA04SD0/ref=sr_1_2?dchild=1&keywords=taylor+swift+vinyl&qid=1621273762&s=music&sr=1-2)
+7. [Harry Styles - Fine Line](https://www.amazon.co.uk/Fine-Line-VINYL-Harry-Styles/dp/B07ZWBNZR4/ref=sr_1_21?dchild=1&qid=1621273995&s=music&sr=1-21)
+8. [Paul Weller - Fat Pop](https://www.amazon.co.uk/Fat-Pop-VINYL-Paul-Weller/dp/B08WZJK2X2/ref=sr_1_17?dchild=1&qid=1621273995&s=music&sr=1-17)
+9. [Louis Tomlinson - Walls](https://www.amazon.co.uk/Walls-VINYL-Louis-Tomlinson/dp/B07Z74SSBP/ref=sr_1_31?dchild=1&qid=1621274260&s=music&sr=1-31)
+10. [Billie Eilish - Happier Than Ever](https://www.amazon.co.uk/Happier-Than-Ever-Billie-Eilish/dp/B093KVZNHX/ref=sr_1_40?dchild=1&qid=1621274353&s=music&sr=1-40)
 
 ---
 A list of sources used to provide images for the album covers for the Hip-hop vinyls featured on the site:
