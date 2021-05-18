@@ -7,7 +7,22 @@ Soundwaves is a website dedicated to music, and allows users to purchase a varie
 
 ## User Experience (UX)
 
+---
 ### User Stories
+
+**Viewing products & site navigation**
+
+| User Story ID | User Type | What they want to achieve | End goal |
+|:----------:|:-----------:|:----------:|:-----------:|
+| 1.| Shopper | As a shopper, I want to view a selection of CDs and vinyls| So I can choose what to purchase. |
+| 2.| Shopper | As a shopper, I want to view specific categories| So I can choose and filter products that interest me. |
+| 3.| Shopper | As a shopper, I want to view the details of a product | So I can make a decision based on price, image, description, and reviews. |
+| 4.| Shopper | As a shopper, I want to view the total price of the products I have added to my cart| So I can keep track of what I plan to purchase and avoid overspending. |
+| 5.| Shopper | As a shopper, I want to search products using keywords| So I can quickly and easily find what I am looking for. |
+| 6.| Shopper | As a shopper, I would like to sort through products by price, name, and genre | So I can compare products and choose based on my preferences. |
+| 7.| Shopper | As a shopper, I want to view the items in my shopping cart | So I can view what I have chosen to purchase |
+
+---
 
 ### UX Framework
 
