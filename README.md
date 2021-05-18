@@ -125,6 +125,18 @@ A list of sources used to provide images for the album covers for the Hip-hop CD
 10. [Jay-Z - The Blueprint](https://www.amazon.co.uk/Blueprint-JAY-Z/dp/B00005O54T/ref=pd_sim_37/261-4749870-1301622?pd_rd_w=jPsfW&)
 
 ---
+A list of sources used to provide images for the album covers for the Rock CDs featured on the site:
+
+1. [Linkin Park - Hybrid Theory](https://www.amazon.co.uk/Hybrid-Theory-Linkin-Park/dp/B00004Z459/ref=sr_1_8?crid=1ROTVJ0J51QZG&dchild=1&)
+2. [My Chemical Romance - The Black Parade](https://www.amazon.co.uk/Black-Parade-My-Chemical-Romance/dp/B000I5Y8ZU/ref=sr_1_1?crid=1SVAQ97XZWSWN&dchild=1&keywords=my+chemical+romance+cd&qid=1621352513&s=music&sprefix=my+che%2Cpopular%2C186&sr=1-1)
+3. [All Time Low - Wake Up, Sunshine](https://www.amazon.co.uk/Wake-Sunshine-Amazon-Exclusive-Signed/dp/B084QL471J/ref=sr_1_3?dchild=1&)
+4. [The All-American Rejects - When The World Comes Down](https://www.amazon.co.uk/When-World-Comes-American-Rejects/dp/B001N2UXUG/ref=sr_1_3?crid=1YZ7NIH1I0DVZ&dchild=1&keywords=all+american+rejects&qid=1621354478&s=music&sprefix=all+amer%2Cpopular%2C172&sr=1-3)
+5. [Arctic Monkeys - AM](https://www.amazon.co.uk/AM-Arctic-Monkeys/dp/B00DYFCTSY/ref=sr_1_2?keywords=arctic+monkeys&qid=1621354657&s=music&sr=1-2)
+6. [Bring Me The Horizon - Sempiternal](https://www.amazon.co.uk/Sempiternal-Bring-Me-Horizon/dp/B00C57DFY4/ref=sr_1_5?crid=21SW1AKMJ33IO&dchild=1&keywords=bring+me+the+horizon&qid=1621355781&s=music&sprefix=bring+me%2Cpopular%2C187&sr=1-5)
+7. [The Amazons - Future Dust](https://www.amazon.co.uk/Future-Dust-Amazons/dp/B07Q2JHJNN/ref=sr_1_4?crid=BRIJKFPWFRLA&keywords=the+amazons&qid=1621355902&s=music&sprefix=the+amaz%2Cpopular%2C162&sr=1-4)
+8. [Fall Out Boy - Mania](https://www.amazon.co.uk/Fall-Out-Boy-Mania-PL/dp/B0796Y8LDP/ref=sr_1_3?crid=3P9EE65RPSFS0&dchild=1&keywords=fallout+boy+cd&qid=1621356134&s=music&sprefix=fal%2Cpopular%2C196&sr=1-3)
+
+---
 A list of sources used to provide images for the album covers for the Pop vinyls featured on the site:
 
 1. [The Killers - Hot Fuss](https://www.amazon.co.uk/Killers-Exclusive-Transparentes-Orange-NM-Zustand/dp/B07PPXRKJQ/ref=sr_1_9?)
