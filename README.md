@@ -111,6 +111,20 @@ A list of sources used to provide images for the album covers for the Pop CDs fe
 10. [Black Eyed Peas - Translation](https://www.amazon.co.uk/Translation-Black-Eyed-Peas/dp/B088K718T8/ref=sr_1_1?crid=1XC267VNM53N1&dchild=1&)
 
 ---
+A list of sources used to provide images for the album covers for the Hip-hop CDs featured on the site:
+
+1. [Madvillain - Madvillainy](https://www.amazon.co.uk/Madvillainy-Madvillain/dp/B00018Y0QQ/ref=sr_1_1?dchild=1&keywords=madvillainy&qid=1621349134&s=music&sr=1-1)
+2. [Juice WRLD - Legends Never Die](https://www.amazon.co.uk/Legends-Never-Die-Juice-WRLD/dp/B08H5BLFBT/ref=sr_1_1?dchild=1&keywords=juice+wrld&qid=1621349199&s=music&sr=1-1)
+3. [Pop Smoke - Shoot For The Stars Aim For The Moon](https://www.amazon.co.uk/Shoot-Stars-Aim-Moon-Smoke/dp/B08CWCG1V3/ref=sr_1_1?dchild=1&keywords=pop+smoke&qid=1621349246&s=music&sr=1-1)
+4. [Drake - Scorpion](https://www.amazon.co.uk/Scorpion-Drake/dp/B07F464TC8/ref=sr_1_4?dchild=1&keywords=drake&qid=1621349398&s=music&sr=1-4)
+5. [Notorious B.I.G. - Greatest Hits](https://www.amazon.co.uk/Greatest-Hits-Notorious-B-I-G/dp/B000NA25P0/ref=tmm_acd_swatch_0?_encoding=UTF8&qid=1621349447&sr=1-1)
+6. [Travis Scott - Astroworld](https://www.amazon.co.uk/Astroworld-Travis-Scott/dp/B07FYQR5QQ/ref=sr_1_3?crid=24YUQ8BDGNSUH&dchild=1&keywords=travis+scott+cd&qid=1621349707&s=music&sprefix=travis+s%2Cpopular%2C197&sr=1-3)
+7. [J Cole - 2014 Forest Hills Drive](https://www.amazon.co.uk/2014-Forest-Hills-Drive-Cole/dp/B00POE9JV8/ref=tmm_acd_swatch_0?_encoding=UTF8&qid=1621349799&sr=1-3)
+8. [Stormzy - Heavy Is The Head](https://www.amazon.co.uk/Heavy-Head-Stormzy/dp/B081KRT169/ref=sr_1_1?crid=2U9LI0UCB0OND&dchild=1&keywords=stormzy&qid=1621349972&s=music&sprefix=Storm%2Cpopular%2C195&sr=1-1)
+9. [Eminem - Kamikaze](https://www.amazon.co.uk/Kamikaze-Eminem/dp/B07GZTDDMW/ref=pd_sim_44/261-4749870-1301622?pd_rd_w=JaXBg&)
+10. [Jay-Z - The Blueprint](https://www.amazon.co.uk/Blueprint-JAY-Z/dp/B00005O54T/ref=pd_sim_37/261-4749870-1301622?pd_rd_w=jPsfW&)
+
+---
 A list of sources used to provide images for the album covers for the Pop vinyls featured on the site:
 
 1. [The Killers - Hot Fuss](https://www.amazon.co.uk/Killers-Exclusive-Transparentes-Orange-NM-Zustand/dp/B07PPXRKJQ/ref=sr_1_9?)
