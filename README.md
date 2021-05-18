@@ -97,6 +97,20 @@ Homepage image:
 The main homepage image used on the site is a free stock image taken from Pexels https://www.pexels.com/photo/blue-vinyl-record-playing-on-turntable-1389429/
 
 ---
+A list of sources used to provide images for the album covers for the Pop CDs featured on the site:
+
+1. [Ed Sheeran - Divide](https://www.amazon.co.uk/%C3%B7-Divide-Ed-Sheeran/dp/B01MY72DBS?ref_=Oct_s9_apbd_oup_hd_bw_b2uau&)
+2. [Taylor Swift - Evermore](https://www.amazon.co.uk/Evermore-album-deluxe-Taylor-Swift/dp/B08Q9MLYPQ/ref=sr_1_22?dchild=1&)
+3. [Little Mix - Confetti](https://www.amazon.co.uk/Confetti-Little-Mix/dp/B08JB9RRR8/ref=sr_1_19?dchild=1&)
+4. [Ariana Grande - Positions](https://www.amazon.co.uk/Positions-Ariana-Grande/dp/B08L41BDBP/ref=sr_1_2?crid=1XLFUOVNKNOFC&dchild=1&keywords=ariana+grande+cd&qid=1621346994&s=music&sprefix=ari%2Cpopular%2C184&sr=1-2)
+5. [Justin Bieber - Justice](https://www.amazon.co.uk/Justice-Justin-Bieber/dp/B08X6C6Z2G/ref=sr_1_45?dchild=1&qid=1621347121&refinements=p_n_binding_browse-bin%3A382528011&rnid=382527011&s=music&sr=1-45)
+6. [Dua Lipa - Dua Lipa (Complete Edition)](https://www.amazon.co.uk/Dua-Lipa-Complete/dp/B07J33Q54P/ref=sr_1_4?crid=3KYDHFLUR28W1&dchild=1&keywords=dua+lipa+cd&qid=1621347313&s=music&sprefix=dua+%2Cpopular%2C177&sr=1-4)
+7. [Sam Smith - Love Goes](https://www.amazon.co.uk/Love-Goes-Sam-Smith/dp/B08FTKJ4GF/ref=sr_1_1?crid=9ST2XABC9RC9&dchild=1&)
+8. [Miley Cyrus - Plastic Hearts](https://www.amazon.co.uk/Plastic-Hearts-Miley-Cyrus/dp/B08LN979N2/ref=sr_1_67?dchild=1&qid=1621348050&s=music&sr=1-67)
+9. [Coldplay - Everyday Life](https://www.amazon.co.uk/Everyday-Life-Coldplay/dp/B07YMDZZW8/ref=sr_1_96?dchild=1&qid=1621348134&s=music&sr=1-96)
+10. [Black Eyed Peas - Translation](https://www.amazon.co.uk/Translation-Black-Eyed-Peas/dp/B088K718T8/ref=sr_1_1?crid=1XC267VNM53N1&dchild=1&)
+
+---
 A list of sources used to provide images for the album covers for the Pop vinyls featured on the site:
 
 1. [The Killers - Hot Fuss](https://www.amazon.co.uk/Killers-Exclusive-Transparentes-Orange-NM-Zustand/dp/B07PPXRKJQ/ref=sr_1_9?)
