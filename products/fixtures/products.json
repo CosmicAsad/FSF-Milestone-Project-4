@@ -1,0 +1,1 @@
+[{"pk": 1, "model": "products.product", "fields": {"name": "Divide", "artist": "Ed Sheeran", "description": "", "price": 4.99, "category": 1, "image_src": "https://www.amazon.co.uk/%C3%B7-Divide-Ed-Sheeran/dp/B01MY72DBS?ref_=Oct_s9_apbd_oup_hd_bw_b2uau&", "image": "/workspace/FSF-Milestone-Project-4/media/Ed-Sheeran-Divide.jpg"}}]
