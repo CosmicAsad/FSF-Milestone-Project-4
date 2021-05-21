@@ -11,7 +11,7 @@ class ProductAdmin(admin.ModelAdmin):
         'image',
     )
 
-    ordering = ('name',)
+    ordering = ('pk',)
 
 
 class CategoryAdmin(admin.ModelAdmin):
