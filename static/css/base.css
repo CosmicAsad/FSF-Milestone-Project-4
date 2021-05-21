@@ -18,6 +18,14 @@ body {
     background-color: #029bab;
 }
 
+.dropdown-menu {
+    background-color: #029bab;
+}
+
+.dropdown-item {
+    color: white;
+}
+
 /* from Bulma */
 .icon {
     align-items: center;
