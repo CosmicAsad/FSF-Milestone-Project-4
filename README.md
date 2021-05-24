@@ -28,6 +28,9 @@ Soundwaves is a website dedicated to music, and allows users to purchase a varie
 
 **1. Strategy**
 
+The design process of the website for Soundwaves was designed with the focus on primarily the customer, and the admin. The goal was to create a e-commerce website that utilised full-stack development to create a site that allows users to purchase music products, as well as allow creative control for myself as the admin. The website should provide a positive UX for the shoppers, as well as an easy to navigate UI. The goal of the project is to demonstrate my coding abilities using HTML, CSS, JavaScript, Python, as well as Django. The user stories detailed below provided additional strategy for what features to include.  
+
+
 **2. Scope**
 
 **Functional Requirements**
