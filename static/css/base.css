@@ -50,31 +50,14 @@ body {
     color: white;
 }
 
-.btn-outline-black {
-    background: white;
-    color: black !important;
-    border: 1px solid black;
-}
-
-.btn-outline-black:hover,
-.btn-outline-black:active,
-.btn-outline-black:focus {
-    background: black;
-    color: white !important;
-}
-
 .shop-now-button:hover,
 .shop-now-button:active,
 .shop-now-button:focus,
 .btn-black:hover,
 .btn-black:active,
 .btn-black:focus {
-    background: #222;
+    background: #008080;
     color: white;
-}
-
-.text-black {
-    color: #000 !important;
 }
 
 .border-black {
@@ -89,6 +72,16 @@ body {
 	position: fixed;
 	background-image: linear-gradient(#e1f5f4, #ffffff);
 	z-index: -1;
+}
+
+a.category-badge {
+    background: white !important;
+    color: #008080 !important;
+}
+
+a.category-badge > span.badge:hover {
+    background: #008080 !important;
+    color: #fff !important;
 }
 
 /* -------------------------------- Media Queries */
