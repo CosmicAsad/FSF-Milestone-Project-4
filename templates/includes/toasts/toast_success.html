@@ -8,7 +8,33 @@
             <span aria-hidden="true">&times;</span>
         </button>
     </div>
+    {% url 'view_cart' as url_view_cart %}
+    {% if request.path == url_view_cart %}
     <div class="toast-body bg-white">
-        {{ message }}
+        <div class="row">
+            <div class="col">
+                {{ message }}
+            </div>
+        </div>
     </div>
+    {% else %}
+    <div class="toast-body bg-white">
+        <div class="row">
+            <div class="col">
+                {{ message }}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <a href="{% url 'view_cart' %}" class="btn btn-black btn-block rounded-0">
+                    <span>Go To Secure Checkout</span>
+                    <span class="icon">
+                        <i class="fas fa-lock"></i>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+
 </div>
