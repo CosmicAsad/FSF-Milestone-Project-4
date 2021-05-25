@@ -82,7 +82,7 @@
 
                     <!--Submit button-->
                     <div class="col-12 mt-2">
-                        <input type="submit" class="btn btn-black rounded-5" value="Add to Cart">
+                        <input type="submit" class="btn btn-black rounded-5 px-0" value="Add to Cart">
                     </div>
                     <input type="hidden" name="redirect_url" value="{{ request.path }}">
             </div>
@@ -92,5 +92,6 @@
 
     {% block postloadjs %}
     {{ block.super }}
+    <!--Script for quantity input buttons-->
     {% include 'products/includes/quantity_input_script.html' %}
     {% endblock %}

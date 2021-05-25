@@ -43,6 +43,10 @@ body {
     width: fit-content;
 }
 
+.main-heading {
+    text-align: center;
+}
+
 .shop-now-button {
     background: white;
     color: #008080;

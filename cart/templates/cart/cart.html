@@ -84,12 +84,12 @@
                     </table>
                 </div>
             {% else %}
-            <p class="lead mb-5">Your cart is empty</p>
-            <a href="{% url 'products' %}" class="btn btn-black rounded-0 btn-lg">
+            <p class="lead mb-5">You have no items in your cart</p>
+            <a href="{% url 'products' %}" class="btn btn-black btn-lg">
                 <span class="icon">
                     <i class="fas fa-chevron-left"></i>
                 </span>
-                <span class="text-uppercase">Return to products</span>
+                <span>Return to products</span>
             </a>
             {% endif %}
         </div>
