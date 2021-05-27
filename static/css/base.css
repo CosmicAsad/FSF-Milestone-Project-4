@@ -49,6 +49,9 @@ body {
 
 .main-heading {
     text-align: center;
+}
+
+.text-shadow {
     text-shadow: 2px 2px #000;
 }
 
