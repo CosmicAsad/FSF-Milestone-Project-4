@@ -70,13 +70,13 @@
                 <hr class="w-20">
 
                 <!--Order details -->
-                {% for item in order.lineitems.all %}
                 <div class="row">
                     <div class="col-12 col-md-4">
                         <p><strong>Order Details:</strong></p>
                     </div>
                 </div>
-
+                
+                {% for item in order.lineitems.all %}
                 <div class="row">
                     <div class="col-12 col-md-4">
                         <p class="mb-0 small">{{ item.product.name }} - {{ item.product.artist }}</p>

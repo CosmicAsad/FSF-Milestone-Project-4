@@ -9,6 +9,7 @@ from products.models import Product
 # Create your models here.
 
 
+# Model for order checkout form
 class Order(models.Model):
     order_number = models.CharField(max_length=24, null=False, editable=False)
     full_name = models.CharField(max_length=50, null=False, blank=False)
