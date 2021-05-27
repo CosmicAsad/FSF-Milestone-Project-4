@@ -109,6 +109,10 @@ a.category-badge > span.badge:hover {
     cursor: pointer;
 }
 
+.text-black {
+    color: #000 !important;
+}
+
 /* ----- Toast styling */
 
 .message-container {
