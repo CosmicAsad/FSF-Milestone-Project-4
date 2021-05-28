@@ -27,10 +27,20 @@
 }
 
 .stripe-style-input::placeholder {
-    color: #e1f5f4;
+    color: #aab7c4;
 }
 
 #payment-form .form-control,
 #card-element {
     color: #000;
+}
+
+select,
+select option {
+  color: #000;
+}
+
+select:invalid,
+select option[value=""] {
+  color: #aab7c4 !important;
 }
