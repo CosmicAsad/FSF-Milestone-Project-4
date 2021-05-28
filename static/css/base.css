@@ -163,3 +163,9 @@ a.category-badge > span.badge:hover {
         padding-top: 116px;
     }
 }
+
+@media (max-width: 400px) {
+    .nav-link {
+        padding: 0.15rem;
+    }
+}
