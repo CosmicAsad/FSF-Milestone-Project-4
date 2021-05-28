@@ -182,8 +182,20 @@ A list of sources used to provide images for the album covers for the Rock vinyl
 
 ---
 
+A list of sources used to provide images for the album covers for the Rock vinyls featured on the site:
+
+1. [Motorhead - Bad Magic (Limited Edition)](https://www.amazon.co.uk/Bad-Magic-Motorhead/dp/B00YPB10F4/ref=sr_1_1?dchild=1&keywords=motorhead+-+bad+magic&qid=1622219845&sr=8-1)
+2. [BTS - BE (Deluxe Edition)](https://www.amazon.co.uk/BTS-DELUXE-ALBUM-Polaroid-Postcards/dp/B08NWVYQ12/ref=sr_1_6?crid=3F2OIIHEHROAH&dchild=1&keywords=bts+limited+edition&qid=1622220135&sprefix=bts+limi%2Caps%2C261&sr=8-6)
+3. [Eminem - Music To Be Murdered By - Side B (Deluxe Edition)](https://www.amazon.co.uk/Music-Be-Murdered-Side-Deluxe/dp/B08R1HP27T/ref=sr_1_1?dchild=1&keywords=eminem+side+b+deluxe&qid=1622220256&sr=8-1)
+4. [The Roling Stones - The Lost Chess Tapes (Limited Edition)](https://www.amazon.co.uk/Chess-Tapes-Limited-Vinyl-VINYL/dp/B01FSNIN6Q/ref=sr_1_1?dchild=1&keywords=lost+chess+tapes&qid=1622220395&sr=8-1)
+
+---
+
 - Google Fonts was used to obtain the font 'Montserrat' [Google Fonts Link](https://fonts.google.com/specimen/Montserrat)
+
 - FontAwesome 5 was used to provide various icons used throughout the site.
+
+- SimpleImageResizer tool was used to change the sizes of some album artworks that were inconsistently sized. [SimpleImageResizer](http://www.simpleimageresizer.com/) 
 
 ### Acknowledgements
 
