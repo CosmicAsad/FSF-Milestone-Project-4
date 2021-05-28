@@ -30,8 +30,23 @@ Soundwaves is a website dedicated to music, and allows users to purchase a varie
 
 The design process of the website for Soundwaves was designed with the focus on primarily the customer, and the admin. The goal was to create a e-commerce website that utilised full-stack development to create a site that allows users to purchase music products, as well as allow creative control for myself as the admin. The website should provide a positive UX for the shoppers, as well as an easy to navigate UI. The goal of the project is to demonstrate my coding abilities using HTML, CSS, JavaScript, Python, as well as Django. The user stories detailed below provided additional strategy for what features to include.  
 
-
 **2. Scope**
+
+The scope of the project was to create a website that included must-have features for a fully functional e-commerce website, that allows shoppers to purchase CDs and vinyl records. The Boutique Ado project was followed for e-commerce aspects of the website. Additionally, some nice-to-have features were considered. These are detailed below.
+
+Must-have features:
+1. Site authentication for admin and shoppers. Users must be able to create an account to purchase products.
+2. Site navigation. Functional links and searching are required for shoppers to easily view products and navigate the site.
+3. The site must be responsive and work for users on various screen sizes and platforms.
+4. Ability to view products and details.
+5. Ability to add products to a cart.
+6. A checkout page containing a user input form for a user to enter their details.
+7. The site must provide the user with feedback in the event of errors and when taking certain actions.
+8. The site must provide a order confirmation once the purchase is successful.
+9. A user profile must allow users to register a new account and log in to existing accounts.
+10. The profile page must let the user view their orders and save their delivery information.
+
+Additional features such as complete social media integration, as well as stock updates via email were considered as part of the design process, but were ultimately discarded due to time constraints.
 
 **Functional Requirements**
 
