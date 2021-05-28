@@ -3,6 +3,8 @@
 ---
 Soundwaves is a website dedicated to music, and allows users to purchase a variety of CDs and vinyl records. The focus of the website is to allow people to view and purchase music as physical media, which offers unparalleled sound quality and allows fans to build their music collections. Various genres of music are listed, and Limited Edition copies are also available for purchase.
 
+## NOTE: This project is for learning purposes only. The store does not exist, and as such there are no products being sold. There is no promotion taking place. All albums and their respective artworks belong to their respective owners.
+
 ---
 
 ## User Experience (UX)
@@ -34,6 +36,8 @@ The design process of the website for Soundwaves was designed with the focus on 
 
 The scope of the project was to create a website that included must-have features for a fully functional e-commerce website, that allows shoppers to purchase CDs and vinyl records. The Boutique Ado project was followed for e-commerce aspects of the website. Additionally, some nice-to-have features were considered. These are detailed below.
 
+**Functional Requirements**
+
 Must-have features:
 1. Site authentication for admin and shoppers. Users must be able to create an account to purchase products.
 2. Site navigation. Functional links and searching are required for shoppers to easily view products and navigate the site.
@@ -46,13 +50,38 @@ Must-have features:
 9. A user profile must allow users to register a new account and log in to existing accounts.
 10. The profile page must let the user view their orders and save their delivery information.
 
+Nice to have features:
+1. Advanced search filter for genre,
+2. A "recommended for you" section to provide existing users with new products to order.
+3. Inventory count for each product.
+4. Additional images showing the back of each album.
+5. The track-listing for each album.
+
 Additional features such as complete social media integration, as well as stock updates via email were considered as part of the design process, but were ultimately discarded due to time constraints.
 
-**Functional Requirements**
-
 **Content Requirements**
+1. A mixed list of products so there is at least an item in each category.
+2. A products page with clear images and information about each album.
+3. The price of each item.
+4. A visual aid showing the current total of products in the cart.
+5. Product details including a short description, name, artist, image, and price of each album.
+6. Toasts that respond to events such as adding a product and checking out.
 
 **3. Structure**
+
+The structure of the website follows the same basic structure laid out in the Boutique Ado project.
+*The home page consists of the header, site navigation, a splash image, and a footer.
+*The header contains the site name and logo, the search bar, links for the account page and cart, and the navbar. Lof in and register links are provided to users that are not in an active session.
+*The log in page allows an existing user to access their account via a form for username and password. Once authenticated the user is redirected to their profile page.
+*The register page allows a new user to create a new account. Once completed the user is redirected to their profile page.
+*The profile page stores the users details such as address and order history. This allows users to check out faster.
+*The navbar contains links for 'All Products', CDs, Vinyls, and Limited Editions. Each of these open a dropdown menu for various categories to allow shoppers to filter items.
+*Each category page follows the same structure of a grid of products, and each product card has an image (if available), a name, artist, price, and genre.
+*Individual products can be selected to open the product details page. This provides a larger image of the item, a description, as well as the information from the previous page.
+*The product details page allows the user to add the item to their shopping cart via the 'Add to cart' button.
+*Once added, the displayed total will be updated to show the current total price of the items in the cart.
+*The checkout page can be accessed via the cart icon and consists of a form, which allows the user to enter their details and purchase the item.
+*Once the purchase is complete, the order details are provided and a link allows the user to continue shopping.
 
 **4. Skeleton**
 
@@ -115,6 +144,9 @@ Homepage image:
 The main homepage image used on the site is a free stock image taken from Pexels https://www.pexels.com/photo/blue-vinyl-record-playing-on-turntable-1389429/
 
 ---
+
+#### NOTE: This project is for learning purposes only. The store does not exist, and as such there are no products being sold. There is no promotion taking place. All albums and their respective artworks belong to their respective owners.
+
 A list of sources used to provide images for the album covers for the Pop CDs featured on the site:
 
 1. [Ed Sheeran - Divide](https://www.amazon.co.uk/%C3%B7-Divide-Ed-Sheeran/dp/B01MY72DBS?ref_=Oct_s9_apbd_oup_hd_bw_b2uau&)
