@@ -96,6 +96,10 @@ a.category-badge > span.badge:hover {
     color: #fff !important;
 }
 
+input[name='q']::placeholder {
+    color: #aab7c4;
+}
+
 .btt-button {
     height: 30px;
     width: 30px;
