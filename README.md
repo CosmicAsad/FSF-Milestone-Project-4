@@ -160,9 +160,17 @@ This provided a useful plan going into the site construction and allowed me to v
 
 ## Technologies Used
 
-Bootstrap Starter template used to create base.html
-
-### Security
+ - HTML: Used to create the structure and the content of the website.
+ - CSS: Used to style the webpage and provide an appealing design for users.
+ - JavaScript: Used for backend functionality and logic of various functions throughout the site.
+ - Python: Used to create the main backend logic of the website.
+ - Django: Framework used for site functionality based on Python.
+ - Bootstrap: Used to provide a starter template and aid responsiveness with various built-in classes.
+ - Heroku: Used to deploy the site and make it visible.
+ - Amazon Web Services (AWS): Used to host static and media files for the deployed website.
+ - Balsamiq: Used to create my wireframe.
+ - Gitpod: The IDE used to develop this project was gitpod.
+ - Chrome Developer Tools: Used for debugging, checking responsiveness, and testing.
 
 ## Testing
 
@@ -172,9 +180,21 @@ Bootstrap Starter template used to create base.html
 
 **Validation testing**
 
+All CSS and JavaScript files have been checked using the W3 validator, with only an error regarding language declaration for each file, which I have chosen to ignore.
+
 ## Deployment
 
 ### Heroku Deployment
+
+### AWS Setup
+
+1. To set up AWS, first [create an AWS account](https://aws.amazon.com/free/)
+2. Create an S3 bucket and a bucket policy.
+3. Create a user group, an access policy for your users, and finally users. 
+--- These steps are detailed in [Getting Started with Amazon S3](https://aws.amazon.com/s3/getting-started/) ---
+4. Connect Django to the S3 bucket using S3Boto3Storage and following Django storage setup steps at the doc found [here](https://django-storages.readthedocs.io/en/1.11.1/backends/amazon-S3.html)
+5. Set Heroku config vars for AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY using keys obtained from S3 user setup.
+6. Set USE_AWS to True in Heroku config vars.
 
 ## Credits
 
@@ -289,9 +309,11 @@ A list of sources used to provide images for the album covers for the Rock vinyl
 
 - Google Fonts was used to obtain the font 'Montserrat' [Google Fonts Link](https://fonts.google.com/specimen/Montserrat)
 
-- FontAwesome 5 was used to provide various icons used throughout the site.
+- FontAwesome 5 was used to provide various icons used throughout the site. [FontAwesome](https://fontawesome.com/)
 
-- SimpleImageResizer tool was used to change the sizes of some album artworks that were inconsistently sized. [SimpleImageResizer](http://www.simpleimageresizer.com/) 
+- SimpleImageResizer tool was used to change the sizes of some album artworks that were inconsistently sized. [SimpleImageResizer](http://www.simpleimageresizer.com/)
+
+- Am I Responsive? was used to generate the responsive design image at the top of this README file. [Am I Responsive?](http://ami.responsivedesign.is/)
 
 ### Acknowledgements
 
