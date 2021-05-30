@@ -1,5 +1,8 @@
 # Soundwaves
 
+![Various Devices](https://github.com/CosmicAsad/FSF-Milestone-Project-4/blob/master/media/responsive-ms4_50.png)
+
+
 ---
 Soundwaves is a website dedicated to music, and allows users to purchase a variety of CDs and vinyl records. The focus of the website is to allow people to view and purchase music as physical media, which offers unparalleled sound quality and allows fans to build their music collections. Various genres of music are listed, and Limited Edition copies are also available for purchase.
 
@@ -80,6 +83,8 @@ Must-have features:
 8. The site must provide a order confirmation once the purchase is successful.
 9. A user profile must allow users to register a new account and log in to existing accounts.
 10. The profile page must let the user view their orders and save their delivery information.
+11. The Admin/Superuser must have CRUD functionality available.
+12. CRUD functionality should be restricted for normal users.
 
 Nice to have features:
 1. Advanced search filter for genre,
@@ -113,12 +118,18 @@ The structure of the website follows the same basic structure laid out in the Bo
 *Once added, the displayed total will be updated to show the current total price of the items in the cart.
 *The checkout page can be accessed via the cart icon and consists of a form, which allows the user to enter their details and purchase the item.
 *Once the purchase is complete, the order details are provided and a link allows the user to continue shopping.
+*An email confirmation containing the order details is sent to the user.
 
 **4. Skeleton**
-
-**5. Surface**
+The skeleton of the site was created using Balsamiq wireframes. A wireframe was constructed utilising the scope and structure aspects of the UX framework to create a design for a functional website that is consistent with my strategy. This provided a template for the final website design.
+This also allowed me to consider the responsive design and how elements of the site interacted with each other on large screen sizes as well as mobile.
+This provided a useful plan going into the site construction and allowed me to visualise the final website design.
 
 ### Wireframe
+
+[Wireframe PDF made in Balsamiq](https://github.com/CosmicAsad/FSF-Milestone-Project-4/blob/master/static/wireframes/MS4-wireframe.pdf)
+
+**5. Surface**
 
 ## Features
 
@@ -127,18 +138,25 @@ The structure of the website follows the same basic structure laid out in the Bo
 1. Django Allauth
 2. Site navigation
 3. Styling
+4. Stripe
+5. Amazon Web Services to host static and media files
+6. Fully customised home page
+7. User profile page
+8. Login page
+9. Register page
+10. Product details
+11. Product management for admin - CRUD
+12. Sorting and filtering
+13. Emails for checkout success
+14. User email verification
+15. Webhooks
+16. Fully responsive design
+17. Deployed site on Heroku
 
 ### Upcoming Features
 
-1. Stripe
-2. Amazon Web Services
-3. Fully customised home page
-4. User profile page
-5. Login page
-6. Register page
-7. Product details
-8. Product reviews
-9. Wishlist
+1. Product reviews
+2. Wishlist
 
 ## Technologies Used
 
