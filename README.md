@@ -165,7 +165,7 @@ Bootstrap Starter template used to create base.html
 
 ### Content
 
-Content was created by following the steps laid out in the Code Institute Boutique Ado project
+Content was created by following the steps laid out in the Code Institute Boutique Ado project. I have tried to customise the code as much as possible for my own use case whilst following these steps. No other sources were used for the site. Therefore a majority of the code used for the models can be attributed to the Boutique Ado source code, with the exception of the custom Django models.
 
 ### Media
 
