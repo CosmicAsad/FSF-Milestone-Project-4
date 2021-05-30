@@ -24,6 +24,40 @@ Soundwaves is a website dedicated to music, and allows users to purchase a varie
 | 6.| Shopper | As a shopper, I would like to sort through products by price, name, and genre | So I can compare products and choose based on my preferences. |
 | 7.| Shopper | As a shopper, I want to view the items in my shopping cart | So I can view what I have chosen to purchase |
 
+
+**Registration and authentication**
+
+| User Story ID | User Type | What they want to achieve | End goal |
+|:----------:|:-----------:|:----------:|:-----------:|
+| 1.| User | As a site user, I want to be able to create a new user account. | So I can access my new user profile. |
+| 2.| User | As a site user, I want to be able to log into my existing account | So I can view my existing profile |
+| 3.| User | As a site user, I want to view my order history in my profile | So I can keep track of what I have purchased. |
+| 4.| User | As a site user, I want to save my details on checkout | So my next transaction is quicker by using my saved details. |
+| 5.| User | As a site user, I want to edit my saved details | To keep them up to date for my next purchase. |
+| 6.| User | As a site user, I would like my account to be secure with a password. | So no one else can brute force or access my account and take my details. | 
+
+**Admin and CRUD**
+
+| User Story ID | User Type | What they want to achieve | End goal |
+|:----------:|:-----------:|:----------:|:-----------:|
+| 1.| Admin | As an admin, I want to be able to access product management. | So I can create, read, update, and delete products on the site. |
+| 2.| Admin | As an admin, I want secure access to admin features | So non-superusers are unable to change update, or delete any products on the site. |
+| 3.| Admin | As an admin, I want to be able to create new products | So I can add new products to the site once they are available for shoppers. |
+| 4.| Admin | As an admin, I want to be able to read the data on each product | To check for errors and view the full information of each product uploaded to the site. |
+| 5.| Admin | As an admin, I want to update existing products on my site | To fix errors, upload new images, and change product details when necessary. |
+| 6.| Admin | As an admin, I would like the ability to delete items from the site | So they are unable to be purchased when they are no longer available for sale. |
+
+**Purchasing and checkout**
+
+| User Story ID | User Type | What they want to achieve | End goal |
+|:----------:|:-----------:|:----------:|:-----------:|
+| 1.| Shopper | As a shopper, I want to be able to add a product to my cart | So I can  |
+| 2.| Admin | As an admin, I want secure access to admin features | So non-superusers are unable to change update, or delete any products on the site. |
+| 3.| Admin | As an admin, I want to be able to create new products | So I can add new products to the site once they are available for shoppers. |
+| 4.| Admin | As an admin, I want to be able to read the data on each product | To check for errors and view the full information of each product uploaded to the site. |
+| 5.| Admin | As an admin, I want to update existing products on my site | To fix errors, upload new images, and change product details when necessary. |
+| 6.| Admin | As an admin, I would like the ability to delete items from the site | So they are unable to be purchased when they are no longer available for sale. |
+
 ---
 
 ### UX Framework
