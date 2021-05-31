@@ -216,7 +216,7 @@ The images consist of the album artwork for each CD and Vinyl to be instantly re
 | 5.| Shopper | As a shopper, I want to search products using keywords| So I can quickly and easily find what I am looking for. | Products can be searched via the search form, using the artist name, and album name |
 | 6.| Shopper | As a shopper, I would like to sort through products by price, name, and genre | So I can compare products and choose based on my preferences. | Product sorting can be done via the sort selector oon the products page for each subcategory, allowing them to be sorted alphabetically by name, genre, and artist, as well as price. Ascending and descending options are available for each. |
 | 7.| Shopper | As a shopper, I want to view the items in my shopping cart | So I can view what I have chosen to purchase. | The shopping cart can be viewed by clicking the cart icon in the top right of the header, showing a running total and product details of items added to the cart, as well as calculated delivery costs. |
-| 8.| Shopper | As a shopper, I want to be able to review products | So I can leave recommendations for other users. | The review form can be found on the product detail page and allows users to submit a review. |
+| 8.| Shopper | As a shopper, I want to be able to review products | So I can leave recommendations for other users. | The review form can be found on the product detail page and currently only displays reviews made by admin through Django administration. This is an error to be fixed at a later date. |
 
 
 **Registration and authentication**
