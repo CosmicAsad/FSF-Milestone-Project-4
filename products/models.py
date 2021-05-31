@@ -1,4 +1,5 @@
 from django.db import models
+from profiles.models import UserProfile
 
 
 class Category(models.Model):
@@ -25,3 +26,12 @@ class Product(models.Model):
     price = models.DecimalField(max_digits=6, decimal_places=2)
     image_src = models.URLField(max_length=1024, null=True, blank=True)
     image = models.ImageField(null=True, blank=True)
+
+
+class Review(models.Model):
+    product = models.ForeignKey(Product, related_name='reviews', null=True,
+                                blank=True, on_delete=models.SET_NULL)
+    profile = models.ForeignKey(UserProfile,
+                                related_name='reviews', null=True,
+                                blank=True, on_delete=models.SET_NULL)
+    review_text = models.TextField()
