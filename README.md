@@ -388,6 +388,8 @@ A list of sources used to provide images for the album covers for the Rock vinyl
 
 - FontAwesome 5 was used to provide various icons used throughout the site. [FontAwesome](https://fontawesome.com/)
 
+- Favicons were obtained using [favicon.io](https://favicon.io/)
+
 - SimpleImageResizer tool was used to change the sizes of some album artworks that were inconsistently sized. [SimpleImageResizer](http://www.simpleimageresizer.com/)
 
 - Am I Responsive? was used to generate the responsive design image at the top of this README file. [Am I Responsive?](http://ami.responsivedesign.is/)
