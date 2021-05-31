@@ -25,8 +25,8 @@ Soundwaves is a website dedicated to music, and allows users to purchase a varie
 | 4.| Shopper | As a shopper, I want to view the total price of the products I have added to my cart| So I can keep track of what I plan to purchase and avoid overspending. |
 | 5.| Shopper | As a shopper, I want to search products using keywords| So I can quickly and easily find what I am looking for. |
 | 6.| Shopper | As a shopper, I would like to sort through products by price, name, and genre | So I can compare products and choose based on my preferences. |
-| 7.| Shopper | As a shopper, I want to view the items in my shopping cart | So I can view what I have chosen to purchase |
-
+| 7.| Shopper | As a shopper, I want to view the items in my shopping cart | So I can view what I have chosen to purchase. |
+| 8.| Shopper | As a shopper, I want to be able to review products | So I can leave recommendations for other users. |
 
 **Registration and authentication**
 
@@ -60,7 +60,7 @@ Soundwaves is a website dedicated to music, and allows users to purchase a varie
 | 3.| Shopper | As a shopper, I want to view my cart on a separate page | So I can see the items i've chosen, the quantity, and the breakdown of the total and the delivery costs. |
 | 4.| Shopper | As a shopper, I want the ability to check out the products | So I can add my delivery details and payment infotmation. |
 | 5.| Shopper | As a shopper, I want the ability to securely submit my payment | So my order can be processed and my payment information is secure. |
-| 6.| Shopper | As a shopper, I want the ability to save my details for next time | So I can checkout faster nect time. |
+| 6.| Shopper | As a shopper, I want the ability to save my details for next time | So I can checkout faster next time. |
 | 7.| Shopper | As a shopper, I want to receive confirmation that my order was successful | So I can be certain that my order has been placed and my payment was successful. |
 | 8.| Shopper | As a shopper, I want to receive an email confirmation that my order was successful | So I have an email that I can refer to for proof of the order. |
 
@@ -143,6 +143,23 @@ This provided a useful plan going into the site construction and allowed me to v
 
 **5. Surface**
 
+*The surface of the website aims to appeal to a range of users with a sleek and professional design, with a layout that is familiar to users. This was achieved by following current design methods to provide a satisfactory user experience for visitors, which prevents frustration from unfamiliar design.
+*As the website is a store for CDs and vinyl records, the home page consists of a striking background image of a vinyl record and minimal overlaying text. This was chosen to make it apparent to the user that the focus of the site is music products.
+*An easily legible font was chosen throughout the site; Montserrat. This was obtained from Google fonts and provides a modern and interesting typeface for users whilst also being easy to read and in line with the music/technology theme of the website.
+*The header uses the Montserrat font and the text colour used is white, to provide contrast against the darker background.
+*The products page consists of a grid layout of the individual products arranged in order (as specified by the shopper).
+*Each product Has a displayed image, as well as the name, artist, price and genre below it, to be clearly visible to the shopper.
+
+The colours used were chosen using HTML color picker and are as follows:
+
+* #008080
+* #029bab
+* #000000
+* #ffffff
+* #aab7c4
+
+The images consist of the album artwork for each CD and Vinyl to be instantly recognisable to music fans. The sources are listed below in the Media category.
+
 ## Features
 
 ### Existing Features
@@ -188,7 +205,55 @@ This provided a useful plan going into the site construction and allowed me to v
 
 **User Story Testing**
 
-**Functionality Testing**
+**Viewing products & site navigation**
+
+| User Story ID | User Type | What they want to achieve | End goal | Testing |
+|:----------:|:-----------:|:----------:|:-----------:|:-----------:|
+| 1.| Shopper | As a shopper, I want to view a selection of CDs and vinyls| So I can choose what to purchase. | Search functionality using artist name and product name, and product viewing via the navigation options is fully available. |
+| 2.| Shopper | As a shopper, I want to view specific categories| So I can choose and filter products that interest me. | Specific categories can be chosen via the navbar dropdown, and the sort options on each products subcategory. |
+| 3.| Shopper | As a shopper, I want to view the details of a product | So I can make a decision based on price, image, description, and reviews. | Product details can be viewed by clicking on a product, showing all it's information. Basic information is shown in the products page. |
+| 4.| Shopper | As a shopper, I want to view the total price of the products I have added to my cart| So I can keep track of what I plan to purchase and avoid overspending. | The cart provides a running total of the products added by the shopper, and will increase if products are added, and decrease if products are removed via the quantity selector |
+| 5.| Shopper | As a shopper, I want to search products using keywords| So I can quickly and easily find what I am looking for. | Products can be searched via the search form, using the artist name, and album name |
+| 6.| Shopper | As a shopper, I would like to sort through products by price, name, and genre | So I can compare products and choose based on my preferences. | Product sorting can be done via the sort selector oon the products page for each subcategory, allowing them to be sorted alphabetically by name, genre, and artist, as well as price. Ascending and descending options are available for each. |
+| 7.| Shopper | As a shopper, I want to view the items in my shopping cart | So I can view what I have chosen to purchase. | The shopping cart can be viewed by clicking the cart icon in the top right of the header, showing a running total and product details of items added to the cart, as well as calculated delivery costs. |
+| 8.| Shopper | As a shopper, I want to be able to review products | So I can leave recommendations for other users. | The review form can be found on the product detail page and allows users to submit a review. |
+
+
+**Registration and authentication**
+
+| User Story ID | User Type | What they want to achieve | End goal | Testing |
+|:----------:|:-----------:|:----------:|:-----------:|:-----------:|
+| 1.| User | As a site user, I want to be able to create a new user account. | So I can access my new user profile. | A new user account can be created by clicking the profile icon in the top right, and clicking register. A form can be filled out with user details including email, username, and password. A verification email is sent once submmitted, and a user must be verified to access their profile. |
+| 2.| User | As a site user, I want to be able to log into my existing account | So I can view my existing profile | Existing users can log in via the profile icon in the top right and clicking Login. The user can fill in their login credentials to access their profile. |
+| 3.| User | As a site user, I want to view my order history in my profile | So I can keep track of what I have purchased. | The user profile shows the order history associated with the linked user, and provides the order number, total, date, and items. |
+| 4.| User | As a site user, I want to save my details on checkout | So my next transaction is quicker by using my saved details. | Details are saved on checkout if the user selects the corresponding box to save details. This is only available to authenticated users. |
+| 5.| User | As a site user, I want to edit my saved details | To keep them up to date for my next purchase. | Saved details can be edited and updated by the user in the user profile. These will prefill the form the next time the user checks out. |
+| 6.| User | As a site user, I would like my account to be secure with a password. | So no one else can brute force or access my account and take my details. | Account is secured with django allauth and email verification is required for access for new users. Passwords are hidden. |
+| 7.| User | As a site user, I would like to be able to log out of my account | So I can end my session when I'm done shopping or viewing my profile. | Log out is available via the profile icon once logged in, and allows user to confirm they want to sign out |
+
+**Admin and CRUD**
+
+| User Story ID | User Type | What they want to achieve | End goal | Testing |
+|:----------:|:-----------:|:----------:|:-----------:|:-----------:|
+| 1.| Admin | As an admin, I want to be able to access product management. | So I can create, read, update, and delete products on the site. | Product management is available only when logged in as the admin/superuser from the profile icon on the top right. |
+| 2.| Admin | As an admin, I want secure access to admin features | So non-superusers are unable to change update, or delete any products on the site. | Non superusers are returned to the homepage if trying to access any CRUD functions, and cannot access product management. |
+| 3.| Admin | As an admin, I want to be able to create new products | So I can add new products to the site once they are available for shoppers. | New products can be created using the product management link. |
+| 4.| Admin | As an admin, I want to be able to read the data on each product | To check for errors and view the full information of each product uploaded to the site. | All users have the functionality to view the product data. Admins can log in to the django portal to view additional data like product codes. |
+| 5.| Admin | As an admin, I want to update existing products on my site | To fix errors, upload new images, and change product details when necessary. | Edit products is available and funvtional for the admin from each product card on the products page, allowing details to be updated. |
+| 6.| Admin | As an admin, I would like the ability to delete items from the site | So they are unable to be purchased when they are no longer available for sale. | Deleting items is available from the products card as well, and is able to remove the product. |
+
+**Purchasing and checkout**
+
+| User Story ID | User Type | What they want to achieve | End goal | Testing |
+|:----------:|:-----------:|:----------:|:-----------:|:-----------:|
+| 1.| Shopper | As a shopper, I want to be able to add a product to my cart | So I can view a list of the products I intend to purchase. | Products can be added to the cart from the product detail page via the add to cart button. |
+| 2.| Shopper | As a shopper, I want the ability to choose the quantity of each item I add to the cart | So I can choose multiple of each item to purchase, or remove the item entirely. | The quantity can be selected with a minimum of 1 or maximum of 99 of each item using the quantity selector on the product details page. |
+| 3.| Shopper | As a shopper, I want to view my cart on a separate page | So I can see the items i've chosen, the quantity, and the breakdown of the total and the delivery costs. | The cart can be viewed by clicking the cart icon on the top left, which shows the current cart contents on a separate page. |
+| 4.| Shopper | As a shopper, I want the ability to check out the products | So I can add my delivery details and payment infotmation. | Products can be checked out by clicking the checkout form on the cart page, and filling in delivery details and payment information. |
+| 5.| Shopper | As a shopper, I want the ability to securely submit my payment | So my order can be processed and my payment information is secure. | Payment is handled by filling out the test payment information (4242 4242 4242 4242 04/24 42424) and submitting. If payment is succesful a confirmation will be displayed via a toast and success page. |
+| 6.| Shopper | As a shopper, I want the ability to save my details for next time | So I can checkout faster next time. |A checkbox below the details form allows users to save their delivery details for next time. These are confirmed to show up on user's the profile page. |
+| 7.| Shopper | As a shopper, I want to receive confirmation that my order was successful | So I can be certain that my order has been placed and my payment was successful. | A success page and toast confirming the order number and details will be displayed upon successful checkout. |
+| 8.| Shopper | As a shopper, I want to receive an email confirmation that my order was successful | So I have an email that I can refer to for proof of the order. | An email is sent upon successful checkout to the user's email address provided during checkout. |
 
 **Validation testing**
 
