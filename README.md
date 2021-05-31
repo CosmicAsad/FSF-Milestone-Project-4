@@ -55,8 +55,14 @@ Soundwaves is a website dedicated to music, and allows users to purchase a varie
 
 | User Story ID | User Type | What they want to achieve | End goal |
 |:----------:|:-----------:|:----------:|:-----------:|
-| 1.| Shopper | As a shopper, I want to be able to add a product to my cart | So I can  |
-| 2.| Admin | As an admin, I want secure access to admin features | So non-superusers are unable to change update, or delete any products on the site. |
+| 1.| Shopper | As a shopper, I want to be able to add a product to my cart | So I can view a list of the products I intend to purchase |
+| 2.| Shopper | As a shopper, I want the ability to choose the quantity of each item I add to the cart | So I can choose multiple of each item to purchase, or remove the item entirely. |
+| 3.| Shopper | As a shopper, I want to view my cart on a separate page | So I can see the items i've chosen, the quantity, and the breakdown of the total and the delivery costs. |
+| 4.| Shopper | As a shopper, I want the ability to check out the products | So I can add my delivery details and payment infotmation. |
+| 5.| Shopper | As a shopper, I want the ability to securely submit my payment | So my order can be processed and my payment information is secure. |
+| 6.| Shopper | As a shopper, I want the ability to save my details for next time | So I can checkout faster nect time. |
+| 7.| Shopper | As a shopper, I want to receive confirmation that my order was successful | So I can be certain that my order has been placed and my payment was successful. |
+| 8.| Shopper | As a shopper, I want to receive an email confirmation that my order was successful | So I have an email that I can refer to for proof of the order. |
 
 ---
 
@@ -85,6 +91,12 @@ Must-have features:
 10. The profile page must let the user view their orders and save their delivery information.
 11. The Admin/Superuser must have CRUD functionality available.
 12. CRUD functionality should be restricted for normal users.
+
+To test the Stripe payment function please use the following details:
+**Card Number**: 4242 4242 4242 4242
+**Expiration Date**: 04/24
+**CVC number**: 242
+**Zip code**: 42424
 
 Nice to have features:
 1. Advanced search filter for genre,
