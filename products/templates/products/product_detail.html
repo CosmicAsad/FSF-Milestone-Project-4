@@ -108,8 +108,8 @@
                         <form class="form" action="{% url 'add_review' product.id %}" method="POST">
                             {% csrf_token %}
                             <div class="form-row">
-                                {{ ReviewForm }}
                                 <div class="form-group">
+                                    {{ ReviewForm }}
                                     <input type="text" placeholder="Enter Review">
                                 </div>
                             </div>

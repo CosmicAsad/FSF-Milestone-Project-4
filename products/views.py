@@ -3,7 +3,7 @@ from django.contrib import messages
 from django.contrib.auth.decorators import login_required
 from django.db.models import Q
 from django.db.models.functions import Lower
-from .models import Product, Category, Review
+from .models import Product, Category
 from .forms import ProductForm, ReviewForm
 from profiles.models import UserProfile
 
@@ -144,12 +144,13 @@ def delete_product(request, product_id):
 def add_review(request, product_id):
     if request.method == 'POST':
         form = ReviewForm(request.POST)
+        print(form)
         if form.is_valid():
             review = form.save(commit=False)  # Generate the review, but don't save yet
             product = Product.objects.get(pk=product_id)  # Get the product to attach to this review
-            review.product = product  # Attach it
             profile = UserProfile.objects.get(user=request.user)
-            review.user = profile
+            review.product = product  # Attach it
+            review.profile = profile
             review.save()  # Now save
             messages.success(request, 'Review Added Successfully')
         else:
